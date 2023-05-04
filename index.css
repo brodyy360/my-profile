@@ -1,0 +1,46 @@
+
+*{
+	margin: 0%;
+	padding: 0%;
+ }
+ .body {
+	font-family: Arial, sans-serif;
+	
+ }
+ .h1 {
+	text-align: center;
+	color: #333333;
+ }
+ .container {
+	margin: 0 auto;
+	max-width: 100     px;
+	padding: 20px;
+	background-color: aquamarine;
+	border-radius: 0px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ }
+ .name {
+	font-size: xx-large;
+	font-weight: bold;
+	margin-top: 20px;
+	text-align: center;
+	color: black;
+ }
+ .info {
+	font-size: xx-large;
+	margin-top: 10px;
+	color: cornflowerblue;
+ }
+ .bio {
+	font-size: xx-large;
+	margin-top: 50px;
+	color: darkblue;
+	line-height: 1.5;
+	text-align: justify;
+ }
+ .container img{
+	width: 400px;
+	height: 400px;
+	border-radius: 50%;
+ }
+  
